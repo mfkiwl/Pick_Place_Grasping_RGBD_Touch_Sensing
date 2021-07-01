@@ -1,5 +1,5 @@
 @Author Hyungjoo Kim, KaKei Choi, Youseff Al Jrab
-@Title COMP0129 Robotic Sensing, Manipulation and Interaction Coursewrok 3
+@Title Autonomous Pick and Place for Grasping Task using RGB-D and Touch Bumper Sensing
 
 Pre-requisites:
 > sudo apt-get install ros-melodic-pcl-conversions
