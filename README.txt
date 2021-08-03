@@ -6,7 +6,7 @@ Pre-requisites:
 > cd ws_comp0129/src
 > rm -rf moveit_tutorials
 > git clone -b melodic-devel https://github.com/RPL-CSUCL/moveit_tutorials.git
-> git clone https://github.com/COMP0129-S21/comp0129_s21_cw3.git
+> git clone https://github.com/HJKIMRobotics/Pick_Place_Grasping_RGBD_Touch_Sensing
 
 Run:
 > source devel/setup.bash
